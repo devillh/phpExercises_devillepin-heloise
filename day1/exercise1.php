@@ -1,3 +1,7 @@
 <?php
-echo "test";
+
+$name = "Alex";
+$age = 25;
+
+echo $name, $age;
 ?>
